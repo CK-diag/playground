@@ -1,4 +1,4 @@
-Build a falsification-first Rare Shock Market Mispricing research PoC
+# Build a falsification-first Rare Shock Market Mispricing research PoC
 
 You are the senior software architect, quantitative researcher, data engineer, and test engineer for this task.
 
