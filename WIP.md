@@ -1,6 +1,6 @@
 # Idéer och WIP
 
-Senast uppdaterad: 2026-08-30
+Senast uppdaterad: 2026-09-26
 
 Detta dokument är *source of truth* för projekt och idéer.  
 Syftet är att hålla isär **aktivt arbete**, **väntande arbete**, **idéer** och **avslutade initiativ**, så att nya idéer inte automatiskt blir nya åtaganden.
@@ -11,8 +11,13 @@ Syftet är att hålla isär **aktivt arbete**, **väntande arbete**, **idéer** 
 |---|---|---|
 | Bayes / diagnostik | Aktivt | Fortsatta självstudier i Bayesiansk inferens och utveckling av konceptet för händelsebaserad, lärande fordonsdiagnostik. |
 | Hemskola | Aktivt | Fortsätta prova och iterativt förbättra 30-minutersupplägget med barnens faktiska läromedel. |
-| Arduino-projektet | Nästan klart | Mjukvaruuppdateringen är klar. Endast väderskydd återstår. |
 | Badrumsrenovering | Behöver initieras | Skicka offertförfrågan och ordna första besök för prisuppskattning. |
+
+## Underhåll
+
+| Projekt | Status | Nästa steg |
+|---|---|---|
+| GDD (Green Dash Display / Arduino-projektet) | Underhåll | Mjukvaran är klar och projektet är överlämnat till underhåll. Väderskydd kvarstår vid behov; inga planerade aktiva utvecklingsinsatser. |
 
 ## Väntar / blockerat
 
