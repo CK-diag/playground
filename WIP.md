@@ -5,12 +5,17 @@ Senast uppdaterad: 2026-09-26
 Detta dokument är *source of truth* för projekt och idéer.  
 Syftet är att hålla isär **aktivt arbete**, **väntande arbete**, **idéer** och **avslutade initiativ**, så att nya idéer inte automatiskt blir nya åtaganden.
 
+## Fokus just nu
+
+Badrumsrenovering och att avsluta boken *Rätt kläder* prioriteras innan nya roliga utvecklingsprojekt startas. Bayes-självstudierna fortsätter parallellt. GPS-pucken (myXY) ligger i idébanken tills fokusprojekten är avklarade.
+
 ## Aktivt WIP
 
 | Projekt | Status | Nästa steg |
 |---|---|---|
-| Bayes / diagnostik | Aktivt | Fortsatta självstudier i Bayesiansk inferens och utveckling av konceptet för händelsebaserad, lärande fordonsdiagnostik. |
-| Badrumsrenovering | Behöver initieras | Skicka offertförfrågan och ordna första besök för prisuppskattning. |
+| Bayes / diagnostik | Pågående självstudier | Fortsätt självstudier i Bayesiansk inferens parallellt med fokusprojekten; vidare diagnostikutveckling utan nytt större åtagande. |
+| Badrumsrenovering | Fokus – behöver initieras | Skicka offertförfrågan och ordna första besök för prisuppskattning. |
+| Rätt kläder (bok) | Fokus – avsluta | Inventera återstående arbete, avgränsa slutversionen och färdigställ boken innan nya utvecklingsprojekt startas. |
 
 ## Underhåll
 
@@ -28,6 +33,10 @@ Syftet är att hålla isär **aktivt arbete**, **väntande arbete**, **idéer** 
 ## Idébank
 
 Idéer här är **inte åtaganden**. De får utforskas, men ska inte flyttas till aktivt WIP utan ett medvetet beslut.
+
+### GPS-puck för vandring (myXY)
+
+**Idé:** Utveckla en GPS-puck för robust positionsbestämning vid vandring, särskilt i svåra mottagningsförhållanden. **Parkerad:** Inget aktivt utvecklingsåtagande förrän badrummet och *Rätt kläder* är avklarade.
 
 ### Kapslingsdesigner för 3D-printade apparatlådor
 
