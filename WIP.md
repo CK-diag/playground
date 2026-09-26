@@ -10,7 +10,6 @@ Syftet är att hålla isär **aktivt arbete**, **väntande arbete**, **idéer** 
 | Projekt | Status | Nästa steg |
 |---|---|---|
 | Bayes / diagnostik | Aktivt | Fortsatta självstudier i Bayesiansk inferens och utveckling av konceptet för händelsebaserad, lärande fordonsdiagnostik. |
-| Hemskola | Aktivt | Fortsätta prova och iterativt förbättra 30-minutersupplägget med barnens faktiska läromedel. |
 | Badrumsrenovering | Behöver initieras | Skicka offertförfrågan och ordna första besök för prisuppskattning. |
 
 ## Underhåll
@@ -18,6 +17,7 @@ Syftet är att hålla isär **aktivt arbete**, **väntande arbete**, **idéer** 
 | Projekt | Status | Nästa steg |
 |---|---|---|
 | GDD (Green Dash Display / Arduino-projektet) | Underhåll | Mjukvaran är klar och projektet är överlämnat till underhåll. Väderskydd kvarstår vid behov; inga planerade aktiva utvecklingsinsatser. |
+| Hemskola | Underhåll | Upplägget är igång och fungerar. Fortsätt använda det i vardagen och justera vid behov, utan att räkna det som aktivt utvecklingsarbete. |
 
 ## Väntar / blockerat
 
